@@ -1,0 +1,77 @@
+.hover{
+    background-color: hower
+        green !important
+    ;
+}
+:root{
+    --primarycolor:#4CAF4F;
+    --primary:#18191F;
+}
+.textgreen{
+    color: var(--primarycolor) !important;
+    border-radius: none !important;
+}
+.btnblack{
+    background-color: black;
+}
+.btnblack:hover{
+    background-color:  black !important;
+}
+
+.textgreen:hover{
+    color: var(--primarycolor) !important;
+}
+.bggreen{
+    background-color: var(--primarycolor);
+    color: aliceblue;
+}
+.bggreen:hover{
+    background-color: var(--primarycolor);
+    color: aliceblue;
+}
+.ttgreen{
+   color: var(--primarycolor); 
+}
+
+.bg-color{
+    background-color: #FFFFFF !important;
+;
+
+bgcolor{
+    background-color:#FFFFFF ;
+}
+}
+.btn-size {
+    width: 8%;
+}
+.bgcolor{
+    background-color: #FFFFFF !important;;
+ 
+}
+.borderradius{
+    border-radius: 50%;
+}
+
+
+
+.btn-size{
+    width: 15% !important;
+}
+
+@media screen and (max-width:576px){
+.size{
+    width: 50% !important;
+}
+ .btn-size{
+    width: 50% !important;
+}
+
+}
+
+@media screen and (min-width:576px) and (max-width:768px){
+
+  .btn-size{
+    width: 30%;
+  }  
+
+}
